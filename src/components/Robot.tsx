@@ -1,9 +1,9 @@
 import type { RobotPalette } from "../data/gameData";
-import biru from "../assets/robots/biru.webp";
-import lawan from "../assets/robots/lawan.webp";
-import merah from "../assets/robots/merah.webp";
-import pink from "../assets/robots/pink.webp";
-import ungu from "../assets/robots/ungu.webp";
+import biru from "../assets/raw/biru.png";
+import lawan from "../assets/raw/lawan.png";
+import merah from "../assets/raw/merah.png";
+import pink from "../assets/raw/pink.png";
+import ungu from "../assets/raw/ungu.png";
 
 /** Semua sprite memakai kanvas dengan rasio lebar/tinggi yang sama. */
 export const SPRITE_ASPECT = 1.15;
